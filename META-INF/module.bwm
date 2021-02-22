@@ -15,4 +15,7 @@
   <sca:component xmi:id="_ITW_sHUxEeuO7ZSaGC0tEw" name="ComponentDemoProcess3" compositeext:version="1.0.0.qualifier">
     <scaext:implementation xsi:type="BW:BWComponentImplementation" xmi:id="_ITW_sXUxEeuO7ZSaGC0tEw" processName="gitdemo.DemoProcess3"/>
   </sca:component>
+  <sca:component xmi:id="_PJatAHU7EeuO7ZSaGC0tEw" name="ComponentDemoProcess1" compositeext:version="1.0.0.qualifier">
+    <scaext:implementation xsi:type="BW:BWComponentImplementation" xmi:id="_PJatAXU7EeuO7ZSaGC0tEw" processName="gitdemo.DemoProcess1"/>
+  </sca:component>
 </sca:composite>
